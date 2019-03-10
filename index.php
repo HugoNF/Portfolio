@@ -1,0 +1,9 @@
+<?php include "head.php"?>
+<?php include "intro.php"?>
+<?php include "navbar.php"?>
+<?php include "apropos.php"?>
+<?php include "competences.php"?>
+<?php include "portfolio.php"?>
+<?php include "supplement.php"?>
+<?php include "contact.php"?>
+<?php include "footer.php"?>
